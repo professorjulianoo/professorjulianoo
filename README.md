@@ -1,6 +1,6 @@
 # Sobre mim
-- 👋 Olá, meu nome é JULIANO
-- 👀 Meu e-mail é juliano.buzinello@escola.pr.gov.br
+- 👋 *Olá, meu nome é JULIANO*
+- 👀 **Meu e-mail é juliano.buzinello@escola.pr.gov.br**
 - 🌱 Eu estou interessado em aprender a programar novas linguagens
 - 💞️ Eu estou aprendendo a programar em SCRATCH e JAVASCRIPT
 - 📫 Abaixo como inserir imagens
