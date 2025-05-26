@@ -4,6 +4,9 @@
 - 🌱 Eu estou interessado em aprender a programar novas linguagens
 - 💞️ Eu estou aprendendo a programar em SCRATCH e JAVASCRIPT
 - 📫 Abaixo como inserir imagens
+- **juliano** 🎧
+- _juliano_
+- juliano`
 - https://github.com/alexandresanlim/Badges4-README.md-Profile#-education-
 
 [CLIQUE AQUI](https://www.youtube.com/)
